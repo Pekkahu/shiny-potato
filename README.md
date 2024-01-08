@@ -1,3 +1,6 @@
+> If you don't know how to use Git, please check out this site and practice their exercises over
+[here](https://www.w3schools.com/git/default.asp?remote=github)
+
 ROS2 installation process on Ubuntu 22.04
 ====
 
